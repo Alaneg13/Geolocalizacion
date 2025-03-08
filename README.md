@@ -23,10 +23,9 @@ Criterios de aceptación
  -	El usuario debe visualizar los recursos turísticos de Lima en su dispositivo móvil.	
  -	El usuario debe ubicar lugares turísticos cercanos a su ubicación geográfica dentro de su alcance.	
 
-Integrantes
+Autor
 ===========================
-- Pablo David Mena Medrano
-- José Manuel Ponce Cerna
+- Escobar Gross Alan Gabriel
  
 Aplicación
 ===========================
